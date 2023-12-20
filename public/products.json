@@ -1,0 +1,74 @@
+[
+    {
+    "id": "623853b2614ad5aba311fdd1",
+    "index": 0,
+    "price": 199,
+    "picture": "https://i.ibb.co/2dYMH4j/specs-01.png",
+    "name": "Redmi Note 9",
+    "category": "Smart Phone"
+    },
+    {
+    "id": "623853b2578e9e6ad1ae0dd5",
+    "index": 1,
+    "picture": "https://i.ibb.co/jVqyhmp/3774-46951.jpg",
+    "name": "Google Pixel 6 5G",
+    "price": 279,
+    "category": "Smart Phone"
+    },
+    {
+    "id": "623853b21fb149d2ee7b76c7",
+    "index": 2,
+    "picture": "https://i.ibb.co/chsp9t9/i-Phone-15-Plus-2-1-6945.jpg",
+    "name": "iPhone 15 Pro Max",
+    "price": 999,
+    "category": "Smart Phone"
+    },
+    {
+    "id": "623853b2e91c8de578c9245e",
+    "index": 3,
+    "picture": "https://i.ibb.co/TWgNF9m/Galaxy-S23-Ultra-Graphite-7411.jpg",
+    "name": "Galaxy S23 Ultra 5G",
+    "price": 950,
+    "category": "Smart Phone"
+    },
+    {
+    "id": "623853b2239582e48409ccc6",
+    "index": 4,
+    "price": 599,
+    "picture": "https://i.ibb.co/Sr6dMGT/4b4a05aa8ec4cd49353eed775c5c6a77.png",
+    "name": "vivo V27 5G",
+    "category": "Smart Phone"
+    },
+    {
+    "id": "623853b2cdda0d5bc294f791",
+    "index": 5,
+    "picture": "https://i.ibb.co/GFmDFTQ/A17-p2.webp",
+    "name": "Oppo A17",
+    "price": 299,
+    "category": "Smart Phone"
+    },
+    {
+    "id": "623853b2736f19fd4eb8d44a",
+    "index": 6,
+    "price": 700,
+    "picture": "https://i.ibb.co/1zzWLDz/all-mate40-pro-plus.png",
+    "name": " Huawei Mate 40 Pro",
+    "category": "Smart Phone"
+    },
+    {
+    "id": "623853b2736f19fd4eb8d44b",
+    "index": 7,
+    "price": 520,
+    "picture": "https://i.ibb.co/0hjCjJT/One-Plus-11-R-5-G-Black.webp",
+    "name": "OnePlus 11R ",
+    "category": "Smart Phone"
+    },
+    {
+    "id": "623853b2736f19fd4eb8d44c",
+    "index": 8,
+    "price": 500,
+    "picture": "https://i.ibb.co/jbQMrKc/157329-800-auto-width-800-height-auto-aspect-true.png",
+    "name": "Motorola Edge 40 ",
+    "category": "Smart Phone"
+    }
+    ]
